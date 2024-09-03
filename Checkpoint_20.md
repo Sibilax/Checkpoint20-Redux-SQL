@@ -190,7 +190,7 @@ Estos tipos de datos se utilizan para representar fecha, hora, año. Puede repre
 | **TIME**         | Para representar horarios.                                                            | `'HH:MM:SS'`             |
 | **DATETIME**     | Para representar combinaciones de fecha y hora.                                       | `'YYYY-MM-DD HH:MM:SS'`  |
 | **TIMESTAMP**    | Puede ser configurado para que se establezca en la fecha y hora actual por defecto .  | `'YYYY-MM-DD HH:MM:SS'`  |
-| **YEAR**         | Para representar años.                                                                | `YYYY`                   |
+| **YEAR**         | Para representar años.                                                                | `'YYYY'`                 |
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 
